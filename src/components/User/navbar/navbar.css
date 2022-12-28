@@ -1,0 +1,11 @@
+.search-form{
+    background-color: white;
+    border-radius: 5px ;
+    border: 1px solid #ccc;
+}
+
+.search-box{
+    border: none;
+    outline: none !important;
+    box-shadow: none !important;
+}
